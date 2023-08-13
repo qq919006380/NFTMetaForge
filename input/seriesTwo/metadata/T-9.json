@@ -1,0 +1,28 @@
+{
+    "name": "T-9",
+    "image": "T-9.png",
+    "description": "",
+    "id": "ll923nhf",
+    "attributes": [
+        {
+            "type": "背景",
+            "value": "背景4"
+        },
+        {
+            "type": "身体",
+            "value": "身体2"
+        },
+        {
+            "type": "衣服",
+            "value": "衣服4"
+        },
+        {
+            "type": "脸部",
+            "value": "脸部2"
+        },
+        {
+            "type": "头发",
+            "value": "头发4"
+        }
+    ]
+}

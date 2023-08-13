@@ -1,0 +1,28 @@
+{
+    "name": "T-7",
+    "image": "T-7.png",
+    "description": "",
+    "id": "ll923nhd",
+    "attributes": [
+        {
+            "type": "背景",
+            "value": "背景2"
+        },
+        {
+            "type": "身体",
+            "value": "身体3"
+        },
+        {
+            "type": "衣服",
+            "value": "衣服3"
+        },
+        {
+            "type": "脸部",
+            "value": "脸部4"
+        },
+        {
+            "type": "头发",
+            "value": "头发5"
+        }
+    ]
+}

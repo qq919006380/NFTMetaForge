@@ -1,0 +1,28 @@
+{
+    "name": "T-1",
+    "image": "T-1.png",
+    "description": "",
+    "id": "ll923nh7",
+    "attributes": [
+        {
+            "type": "背景",
+            "value": "背景2"
+        },
+        {
+            "type": "身体",
+            "value": "身体5"
+        },
+        {
+            "type": "衣服",
+            "value": "衣服1"
+        },
+        {
+            "type": "脸部",
+            "value": "脸部3"
+        },
+        {
+            "type": "头发",
+            "value": "头发2"
+        }
+    ]
+}

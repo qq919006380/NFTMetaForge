@@ -1,0 +1,28 @@
+{
+    "name": "T-2",
+    "image": "T-2.png",
+    "description": "",
+    "id": "ll91z5uz",
+    "attributes": [
+        {
+            "type": "背景",
+            "value": "背景4"
+        },
+        {
+            "type": "身体",
+            "value": "身体1"
+        },
+        {
+            "type": "衣服",
+            "value": "衣服4"
+        },
+        {
+            "type": "脸部",
+            "value": "脸部3"
+        },
+        {
+            "type": "头发",
+            "value": "头发4"
+        }
+    ]
+}

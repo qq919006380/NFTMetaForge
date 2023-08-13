@@ -1,0 +1,28 @@
+{
+    "name": "T-6",
+    "image": "T-6.png",
+    "description": "",
+    "id": "ll91z5v3",
+    "attributes": [
+        {
+            "type": "背景",
+            "value": "背景5"
+        },
+        {
+            "type": "身体",
+            "value": "身体5"
+        },
+        {
+            "type": "衣服",
+            "value": "衣服4"
+        },
+        {
+            "type": "脸部",
+            "value": "脸部1"
+        },
+        {
+            "type": "头发",
+            "value": "头发2"
+        }
+    ]
+}

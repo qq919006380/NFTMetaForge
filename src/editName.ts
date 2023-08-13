@@ -2,8 +2,8 @@ import fs from "fs/promises";
 import path from "path";
 import { Sema } from "async-sema";
 
-const folderPath = "./main/metadata";
-const prefix = "ipfs://QmU7bxeDCxyFNasUG6YkKS2wy1H3iH74MfEEopWBjspRth/";
+const folderPath = "./input";
+const prefix = "2";
 const concurrencyLimit = 10; // 同时处理的文件数量
 
 const semaphore = new Sema(concurrencyLimit);
