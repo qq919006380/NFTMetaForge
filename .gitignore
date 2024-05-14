@@ -4,7 +4,9 @@
 .nitro
 .cache
 dist
-
+/input_backup/*
+/output/images
+/output/metadata
 # Node dependencies
 node_modules
 
